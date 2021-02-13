@@ -39,11 +39,10 @@ c2 = Cell(50)
 
 print(c1+c2)
 print(c2-c1)
-
+print()
 print(c2*c1)
 print(c2/c1)
-
+print()
 print((c2*c1).make_order(50))
-# print((c2/c1).make_order(5))
-
+print()
 print(c1.make_order(5))

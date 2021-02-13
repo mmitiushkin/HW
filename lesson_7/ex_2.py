@@ -58,11 +58,11 @@ costume = Costume('Костюм', 45)
 
 print(coat)
 print(costume)
-
+print()
 print(coat.size)
 print(costume.height)
-
+print()
 print(coat.get_consumption())
 print(costume.get_consumption())
-
+print()
 print(coat.total_tissue)
